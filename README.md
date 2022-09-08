@@ -9,3 +9,4 @@ Admin // juno1hp9ufu3snp0jvrde64v2ujcuwn0vue9fkfu8sk
 Denom NPL
 Decimal 6
 total_supply "1000000000000"
+juno1d3damfmdl7lpvr8pjtlgm6f6vyfngfhgjvdplv
